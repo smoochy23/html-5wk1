@@ -1,32 +1,5 @@
 # html-5wk1
-Skip to content
-Navigation Menu
-smoochy23
-html-5wk1
 
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Comparing changes
-Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also  or learn more about diff comparisons.
- 
-...
- 
-There isn’t anything to compare.
-main and master are entirely different commit histories.
-
- Showing  with 133 additions and 0 deletions.
- 76 changes: 76 additions & 0 deletions76  
-index.css
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,76 @@
 *{
     margin: 0;
     padding: 0;
@@ -103,10 +76,7 @@ background-color: black;
     margin: 0;
     flex-direction: row;
 }
- 57 changes: 57 additions & 0 deletions57  
-index.html
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,57 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -164,15 +134,3 @@ Original file line number	Diff line number	Diff line change
 
 </body>
 </html>
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-Comparing main...master · smoochy23/html-5wk1
